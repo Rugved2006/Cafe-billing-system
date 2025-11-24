@@ -48,7 +48,7 @@ By using this system, cafés and small restaurants can:
 ---
 
 ## Conclusion
-The Café Billing System successfully demonstrates how Python can be used to create real-world, interactive billing applications.  
+The Cafe Billing System successfully demonstrates how Python can be used to create real-world, interactive billing applications.  
 The project provides a reliable, accurate, and user-friendly method for restaurants to manage customer orders and billing.
 
 ---
