@@ -131,4 +131,4 @@ if order_items:
     print(f"**Total Due:**".ljust(20) + f" **₹{total_bill}**")
     print("="*30)
 else:
-    print("\nNo items were added to the order. Thank you!")sh and print
+    print("\nNo items were added to the order. Thank you!")
