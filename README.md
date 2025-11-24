@@ -1,4 +1,4 @@
-# Café Billing System (Python)
+# Cafe Billing System (Python)
 
 A simple and interactive **Café Billing System** made using Python.  
 This program allows customers to browse menus by cuisine, place orders, and receive a fully itemized bill including:
@@ -11,15 +11,15 @@ This program allows customers to browse menus by cuisine, place orders, and rece
 
 ---
 
-## 📌 Features
+##  Features
 
-- 📂 **Menu categorized** into *Indian*, *Chinese*, and *Italian*.
-- 🛒 **Interactive order selection** with item quantities.
-- 💰 **Automatic billing** with:
+-  **Menu categorized** into *Indian*, *Chinese*, and *Italian*.
+-  **Interactive order selection** with item quantities.
+-  **Automatic billing** with:
   - 10% Service Charge  
   - 18% GST  
   - 10% Bulk Discount for orders above ₹3500  
-- 🧾 **Final receipt** showing:
+-  **Final receipt** showing:
   - Item-wise details  
   - Subtotal  
   - Discounts  
@@ -28,7 +28,7 @@ This program allows customers to browse menus by cuisine, place orders, and rece
 
 ---
 
-## 🗒️ How to Use
+##  How to Use
 
 1. Run the Python script:
    ```bash
@@ -50,7 +50,7 @@ This program allows customers to browse menus by cuisine, place orders, and rece
 
 ---
 
-## 📜 Code Overview
+##  Code Overview
 
 The main components of the project:
 
@@ -61,7 +61,7 @@ The main components of the project:
 
 ---
 
-## 🧮 Billing Formula
+##  Billing Formula
 
 ```
 Subtotal = sum(price × quantity)
@@ -73,7 +73,7 @@ Grand Total = subtotal – discount + service charge + GST
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 - Python 3.7+
 - No external libraries required
